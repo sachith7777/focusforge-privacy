@@ -124,4 +124,4 @@ FocusForge is not intended to be directed at children under the age of 13. We do
 
 If you believe that a child has provided personal information to us, please contact focuforge.app@zohomail.in so we can review the concern.
 
-Parents and guardians should supervise children's use of devices
+Parents and guardians should supervise children's use of devices and help ensure that app usage is appropriate for their age.
